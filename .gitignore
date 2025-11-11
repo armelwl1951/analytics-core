@@ -1,0 +1,19 @@
+# build artifacts
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/*.o
+/*.out
+/*.a
+/*.so
+compile_commands.json
+
+# editors/OS
+*.swp
+.DS_Store
+
+# Python (if you add scripts)
+__pycache__/
+*.pyc
+.env/
+venv/
